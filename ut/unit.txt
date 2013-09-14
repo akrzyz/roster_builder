@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<unit>
+	<stats/>
+	<list name="properties" options="7">
+		<property options="7">
+			<name>name</name>
+			<value/>
+		</property>
+		<property options="7">
+			<name>type</name>
+			<value/>
+		</property>
+	</list>
+	<map name="resources"/>
+</unit>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<list name="config" options="7">
+	<item>
+		<name>w40k</name>
+		<value>./data/w40k_config.txt</value>
+	</item>
+	<item>
+		<name>Necromunta</name>
+		<value>./data/necromunda_config.txt</value>
+	</item>
+	<item>
+		<name>Bloodbowl</name>
+		<value>./data/bloodbowl_config.txt</value>
+	</item>
+</list>

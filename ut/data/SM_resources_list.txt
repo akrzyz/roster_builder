@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<list name="resources_map" options="7">
+	<item>
+		<name>basic weapons</name>
+		<value>data/resources/basic_weapons.txt</value>
+	</item>
+	<item>
+		<name>closecombat weapons</name>
+		<value>data/resources/closecombat_weapons.txt</value>
+	</item>
+	<item>
+		<name>skills</name>
+		<value>data/resources/skills.txt</value>
+	</item>
+</list>

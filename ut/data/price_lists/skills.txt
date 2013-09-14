@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<list name="skills" options="7">
+	<item>
+		<name>run</name>
+		<value>5</value>
+	</item>
+	<item>
+		<name>jump</name>
+		<value>0</value>
+	</item>
+	<item>
+		<name>hide</name>
+		<value>10</value>
+	</item>
+</list>

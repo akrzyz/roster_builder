@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<unit>
+	<stats>A=1,I=4,Sv=3+,S=4,WS=4,T=4,BS=4</stats>
+	<list name="properties" options="7">
+		<property options="7">
+			<name>name</name>
+			<value>TS #1</value>
+		</property>
+		<property options="7">
+			<name>type</name>
+			<value>Tactical squad</value>
+		</property>
+		<property options="7">
+			<name>basic_cost</name>
+			<value>0</value>
+		</property>
+		<property options="7">
+			<name>inc_cost</name>
+			<value>0</value>
+		</property>
+	</list>
+	<map name="resources">
+		<list name="closecombat weapons" options="7">
+			<item>
+				<name>knife</name>
+				<value>0</value>
+			</item>
+		</list>
+		<list name="skills" options="7">
+			<item>
+				<name>trugrid</name>
+				<value>0</value>
+			</item>
+		</list>
+		<list name="basic weapons" options="7">
+			<item>
+				<name>bolter</name>
+				<value>5</value>
+			</item>
+			<item>
+				<name>laspistol</name>
+				<value>0</value>
+			</item>
+		</list>
+	</map>
+</unit>

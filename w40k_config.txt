@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<map name="game_config">
+	<list name="Tau" options="7">
+		<item>
+			<name>unit_factory</name>
+			<value>./data/tau_factory.txt</value>
+		</item>
+		<item>
+			<name>price_list</name>
+			<value>./data/tau_price_list.txt</value>
+		</item>
+		<item>
+			<name>resources_list</name>
+			<value>./data/tau_resources_list.txt</value>
+		</item>
+	</list>
+	<list name="Space Marines" options="7">
+		<item>
+			<name>unit_factory</name>
+			<value>./data/SM_factory.txt</value>
+		</item>
+		<item>
+			<name>resources_list</name>
+			<value>./data/SM_resources_list.txt</value>
+		</item>
+		<item>
+			<name>price_list</name>
+			<value>./data/SM_price_list.txt</value>
+		</item>
+	</list>
+</map>

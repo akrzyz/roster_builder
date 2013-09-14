@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<map name="price_map">
+	<list name="Terminator squad" options="7">
+		<item>
+			<name>basic weapons</name>
+			<value>data/price_lists/basic_weapons.txt</value>
+		</item>
+		<item>
+			<name>closecombat weapons</name>
+			<value>data/price_lists/closecombat_weapons.txt</value>
+		</item>
+		<item>
+			<name>skills</name>
+			<value>data/price_lists/skills.txt</value>
+		</item>
+	</list>
+	<list name="Scout squad" options="7">
+		<item>
+			<name>basic weapons</name>
+			<value>data/price_lists/basic_weapons.txt</value>
+		</item>
+		<item>
+			<name>skills</name>
+			<value>data/price_lists/skills.txt</value>
+		</item>
+	</list>
+	<list name="Tactical squad" options="7">
+		<item>
+			<name>basic weapons</name>
+			<value>data/price_lists/basic_weapons.txt</value>
+		</item>
+		<item>
+			<name>closecombat weapons</name>
+			<value>data/price_lists/closecombat_weapons.txt</value>
+		</item>
+	</list>
+</map>

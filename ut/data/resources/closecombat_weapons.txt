@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<list name="closecombat_weapons" options="7">
+	<resource>
+		<spec/>
+		<name>power weapon</name>
+		<desc>ciach</desc>
+	</resource>
+	<resource>
+		<spec>S * 2</spec>
+		<name>power fist</name>
+		<desc>bam</desc>
+	</resource>
+	<resource>
+		<spec/>
+		<name>knife</name>
+		<desc>ciach ciach</desc>
+	</resource>
+</list>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<list name="closecombat weapons" options="7">
+	<item>
+		<name>knife</name>
+		<value>5</value>
+	</item>
+	<item>
+		<name>sword</name>
+		<value>10</value>
+	</item>
+	<item>
+		<name>powerfist</name>
+		<value>50</value>
+	</item>
+</list>

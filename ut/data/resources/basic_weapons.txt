@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<list name="basic_weapons" options="7">
+	<resource>
+		<spec/>
+		<name>lasgun</name>
+		<desc>latarka</desc>
+	</resource>
+	<resource>
+		<spec/>
+		<name>boltgun</name>
+		<desc>ra ta ta</desc>
+	</resource>
+	<resource>
+		<spec/>
+		<name>h.bolter</name>
+		<desc>tra ta ta!</desc>
+	</resource>
+</list>

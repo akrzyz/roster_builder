@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<list name="basic weapons" options="7">
+	<item>
+		<name>bolter</name>
+		<value>40</value>
+	</item>
+	<item>
+		<name>lasgun</name>
+		<value>15</value>
+	</item>
+	<item>
+		<name>autogun</name>
+		<value>10</value>
+	</item>
+</list>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<list name="skills" options="7">
+	<resource>
+		<spec/>
+		<name>jump</name>
+		<desc>hop hop</desc>
+	</resource>
+	<resource>
+		<spec>M + 2</spec>
+		<name>run</name>
+		<desc>run forest run</desc>
+	</resource>
+	<resource>
+		<spec/>
+		<name>hide</name>
+		<desc>you cant see me</desc>
+	</resource>
+</list>

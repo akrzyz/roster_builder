@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<map name="unit_factory">
+	<list name="elite" options="7">
+		<item>
+			<name>Terminator squad</name>
+			<value>./data/unit_prototypes/terminator_squad.txt</value>
+		</item>
+		<item>
+			<name>Drednought</name>
+			<value>./data/unit_prototypes/drednought.txt</value>
+		</item>
+	</list>
+	<list name="troops" options="7">
+		<item>
+			<name>Tactical squad</name>
+			<value>./data/unit_prototypes/tactical_squad.txt</value>
+		</item>
+		<item>
+			<name>Scout squad</name>
+			<value>./data/unit_prototypes/scout_squad.txt</value>
+		</item>
+	</list>
+</map>
